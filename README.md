@@ -6,3 +6,4 @@ App desenvolvido com React Native para inclusão de documentos opcionais de cida
 - Typescript
 - React Native (expo)
 - axios
+- StyledComponents
